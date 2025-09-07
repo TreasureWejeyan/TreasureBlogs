@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jewels-bible-study1.netlify.app/sitemap.xml
